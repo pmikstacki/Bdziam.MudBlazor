@@ -1,5 +1,5 @@
 # Material Design (3|U) components for Blazor
-Since MudBlazor guys are not interested in moving to the latest material, I will port this thing to the Dynamic Color using Bdziam.DynamicColor. 
+Since MudBlazor guys are not interested in moving to the latest material, I will port this thing to the Dynamic Color using [Bdziam.DynamicColor](https://github.com/pmikstacki/Bdziam.DynamicColor) 
 
 ### Quick Installation Guide
 Install Package
